@@ -1,6 +1,6 @@
-module github.com/matcornic/subify
+module github.com/cmillsdev/subify
 
-go 1.23.8
+go 1.23
 
 require (
 	github.com/deckarep/gosx-notifier v0.0.0-20180201035817-e127226297fb
